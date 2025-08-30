@@ -12,7 +12,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Samira Vitoria da Silva Fraga
 - Matricula: 1629044
-- Proposta de projeto escolhida: Site de receitas
+- Proposta de projeto escolhida: Site de receitas fáceis
 - Breve descrição sobre seu projeto: O projeto consiste em criar um site de receitas focado em preparações rápidas e saudáveis, com uma interface simples e intuitiva. O objetivo é oferecer aos usuários receitas fáceis de fazer, com ingredientes acessíveis e sem comprometer o sabor e a saúde. O site tem categorias como: "Salgados", "Doces", "Lanches rápidos", "Sobremesas", permitindo que os usuários encontrem receitas que se adequem ao seu tempo e estilo de vida.
 
 
