@@ -1,12 +1,75 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receitas</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <!-- Cabeçalho -->
+  <header>
+    <div class="logo">Receitas</div>
     
+    <form class="search" action="resultados.html" method="get">
+    <input type="text" placeholder="Pesquisar...">
+    <button type="submit">🔍</button>
+  </form>
+
+    </div>
+    
+    <nav>
+      <a href="/public/index.html">Início</a>
+      <a href="/public/receita/receita.html">Receitas</a>
+      <a href="dicas">Dicas</a>
+      <a href="cadastro" class="cadastro">Cadastre-se</a>
+    </nav>
+  </header>
+
+  <!-- Banner -->
+  <section class="banner">
+    <img src="/public/img/bannerr.jpeg" alt="Pessoa cozinhando">
+  </section>
+
+  <!-- Conteúdo principal -->
+  <main>
+    <!-- Texto à esquerda -->
+    <section class="texto">
+      <h2>Bem-vindo a culinária prática</h2>
+      <p>
+        Aqui você encontra receitas incríveis, saudáveis e dicas para transformar sua cozinha em um verdadeiro restaurante.
+      </p>
+    </section>
+
+    <!-- Receitas no meio -->
+    <section class="receitas">
+      <article class="receita">
+        <img src="/public/img/cenouraa.jpeg" alt="Bolo de cenoura">
+        <p>Bolo de cenoura</p>
+      </article>
+      <article class="receita">
+        <img src="/public/img/boloBanana.webp" alt="Bolo de banana">
+        <p>Bolo de banana (prático)</p>
+      </article>
+    </section>
+
+    <!-- Categorias à direita -->
+    <aside>
+      <h3>Categorias</h3>
+      <ul>
+        <li><a href="salgados">Salgados</a></li>
+        <li><a href="doces">Doces</a></li>
+        <li><a href="sobremesas">Sobremesas</a></li>
+      </ul>
+    </aside>
+
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="footer">
+  <p>&copy; 2025 Receitas | Todos os direitos reservados</p>
+  </footer>
+
 </body>
 </html>

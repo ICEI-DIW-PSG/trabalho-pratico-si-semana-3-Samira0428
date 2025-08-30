@@ -10,17 +10,20 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Samira Vitoria da Silva Fraga
+- Matricula: 1629044
+- Proposta de projeto escolhida: Site de receitas
+- Breve descrição sobre seu projeto: O projeto consiste em criar um site de receitas focado em preparações rápidas e saudáveis, com uma interface simples e intuitiva. O objetivo é oferecer aos usuários receitas fáceis de fazer, com ingredientes acessíveis e sem comprometer o sabor e a saúde. O site tem categorias como: "Salgados", "Doces", "Lanches rápidos", "Sobremesas", permitindo que os usuários encontrem receitas que se adequem ao seu tempo e estilo de vida.
 
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
+[!Wireframe](/public/imagensReadme/Cópia%20de%20RECEITAS.png)
 
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+[!Home page](/public/imagensReadme/print1.png)
+[!Home page](/public/imagensReadme/print2.png)
