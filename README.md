@@ -18,12 +18,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-[!Wireframe](/public/imagensReadme/Cópia%20de%20RECEITAS.png)
+[!Wireframe(/public/imagensReadme/Cópia%20de%20RECEITAS.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
 [!Home page](/public/imagensReadme/print1.png)
 [!Home page](/public/imagensReadme/print2.png)
